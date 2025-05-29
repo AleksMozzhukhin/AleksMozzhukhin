@@ -103,10 +103,6 @@
 
 ## Контактная информация
 
-- **Telegram:** [@Aleks_Mozz](https://t.me/Aleks_Mozz)
+- **Telegram:** [@Aleks_Mozz](https://t.me/aleksandr_mozzhukhin)
 - **GitHub:** [AleksMozzhukhin](https://github.com/AleksMozzhukhin)
-- **Email:** aleks.mozz@gmail.com
-
----
-
-*Открыт для обсуждения возможностей сотрудничества в области машинного обучения, анализа данных и разработки алгоритмов.*
+- **Email:** mozzhukhin71@gmail.com
